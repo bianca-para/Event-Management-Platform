@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1713948774 source:c:\users\bianc\documents\poo\proiect_1\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<string>
+	<conio.h>
+
+1710845834 source:c:\users\bianc\documents\poo\proiect_1\utilizator.cpp
+
+1711019095 c:\users\bianc\documents\poo\proiect_1\utilizator.h
+	<iostream>
+	<string>
+	<list>
+	<conio.h>
+
